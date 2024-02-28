@@ -79,8 +79,8 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
     #R
     export OF_MAINTAINER_AVATAR="$INCLUDE_PATH/Hirokixd28.jpg"
     export OF_MAINTAINER="Hirokixd28"
-    export FOX_VERSION="R11.1"
-	export FOX_BUILD_TYPE="Beta"
+    export FOX_VERSION="R11.1_2"
+	export FOX_BUILD_TYPE="Stable"
 
     # Magisk
 	export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk.zip
